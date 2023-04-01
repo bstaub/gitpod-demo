@@ -143,3 +143,8 @@ disqusShortname = ""
       icon = "fa-linkedin"
       url= "https://www.linkedin.com/in/viktorfarcic/"
       label = "LinkedIn"
+
+    [[params.footer.social]]
+      icon = "fa-youtube"
+      url= "https://www.youtube.com/@brunostaub9714/playlists"
+      label = "LinkedIn"
